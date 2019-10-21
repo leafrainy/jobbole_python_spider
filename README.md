@@ -1,6 +1,6 @@
 # jobbole_python_spider
 简单的爬虫爬取伯乐在线python版文章
-
+伯乐在线网站已失效【2019021】
 # 环境依赖
 1.Mac OS X EI Capitan 10.11.6
 
